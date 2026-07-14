@@ -27,7 +27,7 @@ I'm currently seeking entry-level roles as a **Business Analyst, Data Analyst, O
 
 ### 📊 Featured Projects
 
-#### 📈 [Retail Sales Analytics Dashboard](./retail-sales-analytics-dashboard) *(add link once uploaded)*
+#### 📈 [Retail Sales Analytics Dashboard](./retail-sales-analytics-dashboard) *(https://github.com/Arpita-oops-oe/retail-sales-analytics-dashboard)*
 Interactive Power BI dashboard analyzing ₹608K+ in sales data across products, regions, customer segments, and promotional campaigns.
 - Built KPI cards for Total Revenue, Units Sold, Average Order Value, and Total Orders
 - Used **Power Query** for data cleaning/transformation and **DAX** for business KPI measures
