@@ -35,7 +35,7 @@ Interactive Power BI dashboard analyzing ₹608K+ in sales data across products,
 - Identified top-performing products, regions, and payment methods
 `Tools: Power BI · DAX · Power Query · Excel`
 
-#### 💰 [Financial Performance Dashboard](./financial-performance-dashboard) *(add link once uploaded)*
+#### 💰 [Financial Performance Dashboard](./financial-performance-dashboard) *(https://github.com/Arpita-oops-oe/Financial-power-bi-project-)*
 Power BI dashboard tracking revenue, expenses, net profit, profit margin, ROE, and debt-equity ratio across companies and years.
 - Designed KPI cards and dynamic visualizations for cross-company financial comparison
 - Built 6+ DAX measures (Total Revenue, Net Profit, Profit Margin %, etc.)
